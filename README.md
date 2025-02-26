@@ -6,11 +6,11 @@ GMBA. Tunghai University
 
 # Work Experience
 
-CC Company
-
-AA Company
+- CC Company
+- AA Company
 
 # Skills
-
-Python
-
+1. Market analysis & research
+2. customer relationship management
+3. negotiation skills
+4. networking & relationship
